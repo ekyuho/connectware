@@ -5,7 +5,7 @@ GitHub Pages 기본 도메인: www.connectware.kr. Enforce HTTPS 활성화.
 
 | 호스트 | 유형 | 대상 | 프록시 |
 | --- | --- | --- | --- |
-| connectware.kr | A | 185.199.111.153 | Proxied |
+| connectware.kr | CNAME | ekyuho.github.io | Proxied |
 | www.connectware.kr | CNAME | ekyuho.github.io | Proxied |
 | 9000.connectware.kr | CNAME | bus-three-roan.vercel.app | Proxied |
 | direct.connectware.kr | 미설정 | 서버 준비 후 추가 | DNS only 예정 |
